@@ -33,7 +33,7 @@ def cleanup_text(messy : str):
 
 	messy = messy.strip()
 	return messy
-				
+
 
 
 if __name__ == '__main__':
